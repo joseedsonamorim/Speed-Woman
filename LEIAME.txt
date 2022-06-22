@@ -1,0 +1,25 @@
+		Instalação do Jogo
+
+
+1 - Descompacte o arquivo WomanSpeed.zip;
+2 - Abra a pasta WomanSpeed;
+3 - Duplo-Clique com o botão esquerdo do mouse no arquivo WomanSpeed.exe;
+4 - Divirta-se.
+
+
+		Controles
+
+Movimento:            Teclas direcionais ou WASD
+Habilidades
+* Nitro                    Tab
+* Olhar para Trás          C
+* Muda de Câmera           V
+* Freio                    Espaço
+* Olhar para a Esquerda    Q
+* Olhat para a Direita	   E
+
+Barra de Nitro(Azul);
+Lado Errado (Aviso Vermelho no canto superior central da tela)
+
+
+OBS: O jogo mostrará no fim da corrida o tempo e a opção de Replay da corrida.
